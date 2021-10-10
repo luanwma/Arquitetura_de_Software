@@ -1,4 +1,4 @@
-package Structs;
+package Controllers;
 
 public enum TexturaSolo {
     

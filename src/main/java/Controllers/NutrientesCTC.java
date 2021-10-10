@@ -1,4 +1,4 @@
-package Structs;
+package Controllers;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
